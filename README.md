@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="logo" height="72" width="72" src="res/icon.png" />
 <h2> 签到平台 </h2>
-<p> 一个签到平台 Flutter 项目，后端使用 Supabase </p>
+<p> 一个拍照签到平台 Flutter 项目，后端使用 Supabase </p>
 </div>
 
 ## 这是什么
